@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
   logo = "../../assets/steam.png";
-  nav_items = ['Steam', 'Ação', 'RPG']
+  nav_items = ['Steam', 'Ação', 'RPG', 'Sobrevivência']
 }
